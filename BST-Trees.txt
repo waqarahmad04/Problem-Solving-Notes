@@ -1,0 +1,25 @@
+==============================   Binary Search Trees  ============================ 
+A Data structure that store data in form of tree each node can have max two childs 
+1. Left Child ( Always contains the less or equal value than the Parent Node)
+2. Right Child ( Always has greater or equal value than the parent Node)
+
+                                   (50)
+                                   /  \
+                                (45)   (57) 
+                               /   \      \
+                            (33)   (47)    (90)
+                                           /
+                                         (80)
+                                        /    \
+                                      (70)    (85) 
+                                              /
+                                             (83)  
+
+The Above is the Binary Tree . each node at max has two child and at min no child. 
+
+-----------------------------------------------------------------------------------
+Main Topics to understand about the BST.  
+  
+   -- Traversal Orders 
+
+
